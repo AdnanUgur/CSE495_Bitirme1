@@ -1,0 +1,20 @@
+ÝMKB TEMETTÜ ENDEKSÝNE ALINACAK   ÝMKB TEMETTÜ ENDEKSÝNDEN ÇIKARILACAK
+       HÝSSE SENETLERÝ                     HÝSSE SENETLERÝ
+-------------------------------   ------------------------------------
+1.AKSA                             1.ALBARAKA TÜRK
+2.ARÇELÝK                          2.ANADOLU SÝGORTA
+3.ARENA BÝLGÝSAYAR                 3.ATAKULE GMYO
+4.ARMADA BÝLGÝSAYAR                4.ÇELEBÝ
+5.BATI ÇÝMENTO                     5.ECZACIBAÞI ÝLAÇ
+6.DOÐAN BURDA                      6.ECZACIBAÞI YATIRIM
+7.GENTAÞ                           7.NETAÞ TELEKOM.
+8.HEKTAÞ                           8.OLMUKSA
+9.ÝNDEKS BÝLGÝSAYAR                9.SELÇUK ECZA DEPOSU
+10.ÝTTÝFAK HOLDÝNG                 10.T. KALKINMA BANK.
+11.KOÇ HOLDÝNG                     11.VESTEL BEYAZ EÞYA
+12.KOZA ALTIN
+13.SARKUYSAN
+14.SÖKTAÞ
+15.TEKFEN HOLDÝNG
+16.T.S.K.B
+17.vAKIFLAR BANKASI
